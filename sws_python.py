@@ -1,3 +1,6 @@
+# SWS 2.9.7
+
+
 from reaper_python import *
  
 def BR_EnvAlloc(envelope,takeEnvelopesUseProjectTime):
