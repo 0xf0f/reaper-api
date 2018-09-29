@@ -1,2 +1,2 @@
 # reaper-api
-Reaper/SWS Python/Lua API files with docstrings and more descriptive parameter names.
+Lua and Python REAPER/SWS API files with documentation and more descriptive parameter names.
